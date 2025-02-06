@@ -52,7 +52,7 @@ Start a terminal
 terminator
 ```
 
-## 📡 Running the Nodes
+## Running the Nodes
 
 ### **Camera Driver**
 ```bash
@@ -91,5 +91,5 @@ float32 average_depth          # Response
 
 ---
 
-## 📜 License
+## License
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
